@@ -1,0 +1,19 @@
+#selector-journey {
+  color: #ffffff;
+  font-family: inter;
+  font-size: 30px;
+  padding: 90px;
+}
+
+* {
+  margin: 0 auto;
+
+  background: #000000;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+  color: red;
+}
